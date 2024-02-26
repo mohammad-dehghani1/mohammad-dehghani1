@@ -18,6 +18,6 @@
 </a>
 
 <a href="https://github.com/mohammad-dehghani1">
-   <img  src="https://github-readme-stats.vercel.app/api?username=mohammad-dehghani1&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" width="55%" alt="Mohhammad Dehghani's github stats"/>
+   <img  src="https://github-readme-stats.vercel.app/api?username=mohammad-dehghani1&show_icons=true&line_height=30&rank_icon=github&theme=algolia" width="55%" alt="Mohhammad Dehghani's github stats"/>
 
 </a>
